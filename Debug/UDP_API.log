@@ -1,0 +1,18 @@
+﻿Build started 8/20/2015 5:20:30 PM.
+     1>Project "C:\Users\Jedi\documents\visual studio 2013\Projects\UDP_API\UDP_API\UDP_API.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt UDP_Socket.cpp main.cpp
+         UDP_Socket.cpp
+         Generating Code...
+         Compiling...
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jedi\documents\visual studio 2013\Projects\UDP_API\Debug\UDP_API.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jedi\documents\visual studio 2013\Projects\UDP_API\Debug\UDP_API.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jedi\documents\visual studio 2013\Projects\UDP_API\Debug\UDP_API.lib" /MACHINE:X86 Debug\main.obj
+         Debug\UDP_Socket.obj
+         UDP_API.vcxproj -> C:\Users\Jedi\documents\visual studio 2013\Projects\UDP_API\Debug\UDP_API.exe
+     1>Done Building Project "C:\Users\Jedi\documents\visual studio 2013\Projects\UDP_API\UDP_API\UDP_API.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
